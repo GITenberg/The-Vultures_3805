@@ -1,0 +1,29 @@
+_repo: The-Vultures_3805
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Merriman, Henry Seton
+    aliases:
+    - Scott, Hugh Stowell
+    - Merriman, H. Seton (Henry Seton)
+    birthdate: 1862
+    deathdate: 1903
+    gutenberg_agent_id: '1312'
+    url: http://www.gutenberg.org/2009/agents/1312
+    wikipedia: http://en.wikipedia.org/wiki/Hugh_Stowell_Scott
+description: ''
+gutenberg_issued: '2006-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3805'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spy stories'
+- !lcsh 'Europe, Eastern -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Vultures
+url: http://www.gutenberg.org/ebooks/3805
